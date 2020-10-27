@@ -485,7 +485,7 @@ def main():
     print("The # of cycle is", EPOCHS)
     print("The # of neurons (relu) in the first hidden layer is", number_first_hidden_layer)
     print("The # of neurons (sigmoid) in the second hidden layer is", number_second_hidden_layer)
-    print("The # of neurons (tanh) in the second hidden layer is", number_third_hidden_layer)
+    print("The # of neurons (tanh) in the third hidden layer is", number_third_hidden_layer)
 
 
     print("\n")
